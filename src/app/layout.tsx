@@ -5,8 +5,8 @@ import Footer from "../app/components/footer"; // Import Footer
 import "./globals.css"; // Global styles for the layout
 
 export const metadata = {
-  title: "Your Page Title",
-  description: "Description of your page",
+  title: "Chatbot",
+  description: "work smarter not harder",
 };
 
 // Define the type of the props, including children
